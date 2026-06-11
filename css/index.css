@@ -43,7 +43,7 @@ header {
 }
 .header_inner {
   width: 100%;
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -276,7 +276,7 @@ header img {
   background-color: #faf8f3;
 }
 .con02 li {
-  width: 70%;
+  width: 60%;
   height: 400px;
   border-radius: 1.5rem; /* px과 차이 */
   overflow: hidden;
