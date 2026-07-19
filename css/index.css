@@ -406,8 +406,8 @@ footer {
   transition: var(--transition);
 }
 
-/* 태블릿버전 800px */
-@media (max-width: 800px) {
+/* 태블릿버전 768px */
+@media (max-width: 768px) {
   .header_inner {
     width: 90%;
   }
@@ -689,6 +689,7 @@ footer {
     padding: 0.6rem;
   }
 }
+
 @media (hover: hover) {
   header li:hover a::after {
     width: 60%;
